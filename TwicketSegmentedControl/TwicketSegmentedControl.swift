@@ -16,8 +16,8 @@ open class TwicketSegmentedControl: UIControl {
     open static let height: CGFloat = Constants.height + Constants.topBottomMargin * 2
 
     private struct Constants {
-        static let height: CGFloat = 30
-        static let topBottomMargin: CGFloat = 5
+        static let height: CGFloat = 25
+        static let topBottomMargin: CGFloat = 3
         static let leadingTrailingMargin: CGFloat = 10
     }
 
